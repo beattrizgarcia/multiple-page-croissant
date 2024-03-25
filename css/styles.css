@@ -1,0 +1,21 @@
+body{
+    background: palegoldenrod;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.links{
+   text-align: center;
+
+}
+
+.links a{
+    color: green;
+    margin: 10px;
+}
